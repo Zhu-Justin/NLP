@@ -8,7 +8,8 @@ A "Natural Language Processor" that converts standard English syntax into code.
 2.  Converts integers from English to numeric form (0-9)
 3.  Converts symbols from English (minus, plus, dot, space) to actual symbols ("-", "+", ".", " ")
 4.  Adds parenthesis using the keyword "of" and angle brackets using the keyword "in angle brackets"
-5.  Symbols and numbers are "sticky", i.e. no excess whitespace surrounding symbols and numbers unless "space" is explicitly specified
+5.  Supports escape in the text to escape special keywords like "of"
+6.  Symbols and numbers are "sticky", i.e. no excess whitespace surrounding symbols and numbers unless "space" is explicitly specified
 
 ## Files 
 
