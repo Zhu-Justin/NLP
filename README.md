@@ -1,6 +1,6 @@
 # NLP
 
-A "Natural Language Processor" that converts standard English syntax into code.
+A basic Natural Language Processor that converts standard English syntax into code.
 
 ## Features
 
